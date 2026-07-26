@@ -1,0 +1,7 @@
+streamlit>=1.32.0
+plotly>=5.18.0
+pandas>=2.0.0
+duckdb>=0.10.0
+anthropic>=0.120.0        # Anthropic provider
+openai>=1.40.0            # OpenRouter / Groq / Together / Ollama / any OpenAI-compatible endpoint
+duckduckgo-search>=6.0.0
